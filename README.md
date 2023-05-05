@@ -1,10 +1,10 @@
 <p align="center">
-  
+  <h1 align="center">Сайн байна уу? 👋, Солонгос улсад IT engineering чиглэлээр 4дэх жилдээ сурж байна</h1>
+<h3 align="center">Back-end developer from Mongolia</h3>
 </p>	
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
-<h1 align="center">Сайн байна уу? 👋, Солонгос улсад IT engineering чиглэлээр 4дэх жилдээ сурж байна</h1>
-<h3 align="center">Back-end developer from Mongolia</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomroo1123&label=Profile%20views&color=0e75b6&style=flat" alt="tomroo1123" /> </p>
 
