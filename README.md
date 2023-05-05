@@ -1,6 +1,6 @@
 <p align="center">
-  <h1 align="center">Сайн байна уу? 👋, Солонгос улсад IT engineering чиглэлээр 4дэх жилдээ сурж байна</h1>
-<h3 align="center">Back-end developer from Mongolia</h3>
+  <h1 align="center">Сайн байна уу? 👋</h1>
+
 </p>	
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
