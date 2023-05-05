@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Yuhyeon's Github&fontSize=50" />
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <h1 align="center">Сайн байна уу? 👋, Солонгос улсад IT engineering чиглэлээр 4дэх жилдээ сурж байна</h1>
 <h3 align="center">Back-end developer from Mongolia</h3>
 
