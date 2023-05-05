@@ -1,5 +1,8 @@
-![header](https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves&color=auto&height=300&section=header&text=tomroo%201123&fontSize=90)
-.svg
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
+</p>	
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
+
 <h1 align="center">Сайн байна уу? 👋, Солонгос улсад IT engineering чиглэлээр 4дэх жилдээ сурж байна</h1>
 <h3 align="center">Back-end developer from Mongolia</h3>
 
